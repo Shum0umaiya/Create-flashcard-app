@@ -16,9 +16,11 @@ body {
   margin: 0 auto 30px;
 }
 
-.header h1 {
-  font-size: 44px;
-  margin-bottom: 25px;
+
+  .header h1 {
+  font-size: 56px;
+  line-height: 1.1;
+  margin-bottom: 20px;
   color: #3b1f0f;
 }
 
